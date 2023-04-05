@@ -20,7 +20,7 @@
 
 ### Estudando
 - 🖥️Atualmente estou em uma trilha de estudos em HTML5, CSS3 e JavaScript. Com objetivo de aprender e ter habilidades nestas tecnologias.
-- 📚 Juntamente com HTML5, CSS3 e JavaScript, estou aprendendo em um curso de desenvolvimento de aplicativos computacionais as tecnologias C#, ADO.NET, Microsoft SQL Server, ASP.NET e MySQL.
+- 📚 Juntamente com HTML5, CSS3 e JavaScript, estou aprendendo em um curso de desenvolvimento de aplicativos computacionais as tecnologias C# com ASP.NET, ADO.NET, Microsoft SQL Server e MySQL.
 
 
 ### Contatos
