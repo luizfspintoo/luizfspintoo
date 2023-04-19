@@ -17,7 +17,7 @@
           
 ### Contatos📲
 <div>
-  https://www.lzfelipe.dev/  
+   <a href="https://www.lzfelipe.dev/" target="_blank">lzfelipe.dev</a>
 </div>
 
 
