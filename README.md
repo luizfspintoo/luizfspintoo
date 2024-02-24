@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil do GitHub 👋
 
 ### Sobre mim
-- 🧑‍💻Olá! Meu nome é Luiz Felipe tenho 29 anos e sou um desenvolvedor web. Tenho experiência em HTML5, CSS3 e JavaScript, e estou em constante evolução nessas tecnologias para adquirir novas habilidades e impulsionar minha carreira.
+- 🧑‍💻Olá! Meu nome é Luiz Felipe e sou um desenvolvedor web. Tenho experiência em HTML5, CSS3 e JavaScript, e estou em constante evolução nessas tecnologias para adquirir novas habilidades e impulsionar minha carreira.
 
 - 🚀Além disso, estou expandindo meus conhecimentos em outras stacks, como C#, Microsoft SQL Server e MySQL, para complementar meu aprendizado e me tornar um desenvolvedor ainda mais versátil.
 
