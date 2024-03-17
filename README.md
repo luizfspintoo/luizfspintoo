@@ -5,7 +5,7 @@
 
 - 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário atraentes e responsivas. 
 
-- 💼 Também possuo conhecimento em bancos de dados, principalmente MySQL. Além disso, já trabalhei com SQL Server em projetos anteriores, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
+- 💼 Também possuo conhecimento básico em bancos de dados, principalmente MySQL. Além disso, já atuei com SQL Server em projetos anteriores, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
 
 ### Tecnologias e Ferramentas
 
