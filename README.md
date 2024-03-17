@@ -1,9 +1,11 @@
-# Bem vindo ao meu perfil do GitHub 👋
+# Bem-vindo ao meu perfil do GitHub 👋
 
 ### Sobre mim
-- 🧑‍💻Olá! Meu nome é Luiz Felipe e sou um desenvolvedor web. Tenho experiência em HTML5, CSS3 e JavaScript, e estou em constante evolução nessas tecnologias para adquirir novas habilidades e impulsionar minha carreira.
+- 🧑‍💻 Olá! Meu nome é Luiz Felipe, sou um desenvolvedor web com foco em backend, com conhecimento em PHP e framework Laravel. Atualmente, concentro meus esforços nessa tecnologia para desenvolver aplicações web SSR.
 
-- 🚀Além disso, estou expandindo meus conhecimentos em outras stacks, como C#, Microsoft SQL Server e MySQL, para complementar meu aprendizado e me tornar um desenvolvedor ainda mais versátil.
+- 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário atraentes e responsivas. 
+
+- 💼 Também possuo conhecimento em bancos de dados, principalmente MySQL. Além disso, já trabalhei com SQL Server em projetos anteriores, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
 
 ### Tecnologias e Ferramentas
 
