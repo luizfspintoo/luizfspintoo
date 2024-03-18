@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub 👋
 
 ### Sobre mim
-- 🧑‍💻 Olá! Meu nome é Luiz Felipe, sou um desenvolvedor web com foco em backend, com conhecimento em PHP e framework Laravel. Atualmente, concentro meus esforços nessa tecnologia para desenvolver aplicações web SSR.
+- 🧑‍💻 Olá! Meu nome é Luiz Felipe, sou um desenvolvedor web backend, com conhecimento em PHP e framework Laravel. Atualmente, concentro meus esforços nessa tecnologia para desenvolver aplicações web SSR.
 
 - 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário atraentes e responsivas. 
 
