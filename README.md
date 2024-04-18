@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 -->
           
-### Contatos📲
+### Contato📲
 <div>
    <a href="https://www.linkedin.com/in/luizfspinto/" target="_blank">LinkedIn</a>
 </div>
