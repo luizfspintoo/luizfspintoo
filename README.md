@@ -7,6 +7,7 @@
 
 - 💼 Possuo conhecimento básico em bancos de dados, principalmente MySQL. Além disso, já utilizei SQL Server em projetos de estudo, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
 
+<!--
 ### Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -20,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+-->
           
 ### Contatos📲
 <div>
