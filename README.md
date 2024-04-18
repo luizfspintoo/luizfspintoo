@@ -3,9 +3,9 @@
 ### Sobre mim
 - 🧑‍💻 Olá! Meu nome é Luiz Felipe, sou um desenvolvedor web backend, com conhecimento em PHP e framework Laravel. Atualmente, concentro meus esforços nessa tecnologia para desenvolver aplicações web SSR.
 
-- 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário atraentes e responsivas. 
+- 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário. 
 
-- 💼 Também possuo conhecimento básico em bancos de dados, principalmente MySQL. Além disso, já atuei com SQL Server em projetos anteriores, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
+- 💼 Possuo conhecimento básico em bancos de dados, principalmente MySQL. Além disso, já utilizei SQL Server em projetos de estudo, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
 
 ### Tecnologias e Ferramentas
 
