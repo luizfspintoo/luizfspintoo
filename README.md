@@ -23,7 +23,7 @@
           
 ### Contatos📲
 <div>
-   <a href="https://www.lzfelipe.dev/" target="_blank">lzfelipe.dev</a>
+   <a href="https://www.linkedin.com/in/luizfspinto/" target="_blank">LinkedIn</a>
 </div>
 
 
