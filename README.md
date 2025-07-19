@@ -1,31 +1,31 @@
-# Bem-vindo ao meu perfil do GitHub 👋
+# Olá 👋, sou Luiz
 
-### Sobre mim
-- 🧑‍💻 Olá! Meu nome é Luiz Felipe, sou um desenvolvedor web backend, com conhecimento em PHP e framework Laravel. Atualmente, concentro meus esforços nessa tecnologia para desenvolver aplicações web SSR.
+Aqui compartilho minha experiência na área de programação e como tenho atuado na criação de projetos de desenvolvimento web.
 
-- 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário. 
 
-- 💼 Possuo conhecimento básico em bancos de dados, principalmente MySQL. Além disso, já utilizei SQL Server em projetos de estudo, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
+## 🚀 Tecnologias
 
-<!--
-### Tecnologias e Ferramentas
+### 💻 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
--->
-          
-### Contato📲
-<div>
-   <a href="https://www.linkedin.com/in/luizfspinto/" target="_blank">LinkedIn</a>
-</div>
+[![HTML](https://img.shields.io/badge/HTML-202020?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![jQuery](https://img.shields.io/badge/jQuery-202020?style=for-the-badge&logo=jquery)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-202020?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 
+---
+
+### 🖥️ **Backend & Banco de Dados**
+
+[![PHP](https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-202020?style=for-the-badge&logo=laravel)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+
+---
+
+### 📱 **Mobile & Versionamento**
+
+[![Flutter](https://img.shields.io/badge/Flutter-202020?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![Git](https://img.shields.io/badge/git-202020?style=for-the-badge&logo=git)](https://git-scm.com/)
 
