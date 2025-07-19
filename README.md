@@ -1,29 +1,18 @@
-# Bem-vindo ao meu perfil do GitHub 👋
+<a href="https://app.rocketseat.com.br/me/luizfspintoo"><img align="right" src="https://app.rocketseat.com.br/api/rocketid/share?slug=luizfspintoo&type=card" width="280" alt="Luiz Felipe da Silva Pinto's Rocket ID"/></a>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luiz Felipe</h1>
 
-### Sobre mim
-- 🧑‍💻 Olá! Meu nome é Luiz Felipe, sou um desenvolvedor web backend, com conhecimento em PHP e framework Laravel. Atualmente, concentro meus esforços nessa tecnologia para desenvolver aplicações web SSR.
+<br>
 
-- 🌟 Tenho habilidades em frontend, utilizando HTML, CSS3, Bootstrap, JavaScript e jQuery, focando na criação de interfaces de usuário. 
+- 🔥 Sou um Desenvolvedor Web  
 
-- 💼 Possuo conhecimento básico em bancos de dados, principalmente MySQL. Além disso, já utilizei SQL Server em projetos de estudo, especialmente em conjunto com a linguagem C#, durante cursos de desenvolvimento de aplicativos web.
+- 🔭 Trabalho como Desenvolvedor Backend
 
-<!--
-### Tecnologias e Ferramentas
+- 💬 Tecnologias:
+  - Frontend: **HTML, CSS e JavaScript**
+  - Backend:  **PHP**
+  - Mobile: **Dart**
+  - Database: **MySQL, SQLite**
+  - Versinamento & Hospesagem: **Git, GitLab e Github**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
--->
-          
-### Contato📲
-<div>
-   <a href="https://www.linkedin.com/in/luizfspinto/" target="_blank">LinkedIn</a>
-</div>
+- ⚡ Frameworks: **Laravel, Flutter, Bootstrap, Tailwindcss e Daisyui**
+
