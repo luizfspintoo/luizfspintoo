@@ -12,7 +12,7 @@
   - Backend:  **PHP**
   - Mobile: **Dart**
   - Database: **MySQL, SQLite**
-  - Versinamento: **Git**
+  - Versionamento: **Git**
 
 - ⚡ Frameworks: **Laravel, Flutter, Bootstrap, Tailwindcss e Daisyui**
 
