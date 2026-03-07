@@ -5,8 +5,6 @@
 
 - 🔥 Desenvolvedor Web Backend
 
-- 🎓 Entrei em uma jornada de estudos Full Stack - JavaScript
-
 - 💻 Tecnologias:
   - Frontend: **HTML, CSS, JavaScript**
   - Backend:  **PHP**
