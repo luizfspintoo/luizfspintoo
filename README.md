@@ -7,4 +7,4 @@
   - Database: **MySQL, SQLite**
   - Versionamento: **Git**
 
-- ⚡ Frameworks: **Laravel, Express.js Flutter, Bootstrap, Tailwindcss**
+- ⚡ Frameworks: **Laravel, Express.js, Flutter, Bootstrap, Tailwindcss**
